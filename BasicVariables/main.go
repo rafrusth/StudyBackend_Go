@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	// TODO: lanjutin nanti
+	fmt.Println("Starting server!")
 }
